@@ -270,3 +270,4 @@ E:\Practice\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePulse
 E:\Practice\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePulse.API.genruntimeconfig.cache
 E:\Practice\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\ref\CodePulse.API.dll
 E:\Practice\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePuls.CA016005.Up2Date
+E:\Practice\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net8.0\CodePulse.API.sourcelink.json
